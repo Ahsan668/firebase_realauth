@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562080639432",
+    "project_id": "fir-realauth-8a611",
+    "storage_bucket": "fir-realauth-8a611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562080639432:android:1ed9044c4b937a622c78fd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562080639432-eb45l4t21rmflgfkfa8q6drbee9e7chn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD8hr5y9d5jJXSPrCfpaYR-1Pv2d9BgS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562080639432-eb45l4t21rmflgfkfa8q6drbee9e7chn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
